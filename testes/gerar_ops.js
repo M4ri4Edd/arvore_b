@@ -25,7 +25,7 @@ function gerarOperacoes(num) {
     return operacoes;
 }
 
-const numOperacoes = 10;
+const numOperacoes = 1000;
 const operacoes = gerarOperacoes(numOperacoes);
 const jsonData = JSON.stringify(operacoes, null, 2);
 

@@ -87,7 +87,7 @@ const readline = require('readline');
 const fs = require('fs');
 
 const caminhoArquivo = 'arvore_b.json';
-const caminhoOperacoes = '../testes/db_pequeno.json';  // Atualize o caminho aqui
+const caminhoOperacoes = '../testes/db_grande.json';  // Atualize o caminho aqui
 
 const rl = readline.createInterface({
     input: process.stdin,
