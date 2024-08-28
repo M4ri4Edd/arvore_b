@@ -25,7 +25,6 @@ function gerarOperacoes(num) {
     return operacoes;
 }
 
-// Gerar 100 operações e salvar em um arquivo JSON
 const numOperacoes = 10;
 const operacoes = gerarOperacoes(numOperacoes);
 const jsonData = JSON.stringify(operacoes, null, 2);
