@@ -116,22 +116,6 @@ class BTree {
         }
     }
 
-    // Função para salvar a árvore B em um arquivo JSON
-    saveToFile(filename) {
-        const data = JSON.stringify(this.root);
-        fs.writeFileSync(filename, data, 'utf8');
-    }
-
-    // Função para carregar a árvore B de um arquivo JSON
-    loadFromFile(filename) {
-        if (fs.existsSync(filename)) {
-            const data = fs.readFileSync(filename, 'utf8');
-            this.root = JSON.parse(data);
-        } else {
-            console.log("Arquivo não encontrado.");
-        }
-    }
-
     delete(key) {
         if (!this.root) {
             console.log("A árvore está vazia");
