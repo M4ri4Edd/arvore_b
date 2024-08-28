@@ -1,5 +1,5 @@
 const { BTree } = require('./arvore_b');
-const { inserir, buscar, atualizar, deletar } = require('../performance');  // Adicione esta linha
+const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance');  // Adicione esta linha
 const readline = require('readline');
 const fs = require('fs');
 
