@@ -1,0 +1,453 @@
+[
+  {
+    "tipo": "buscar",
+    "chave": 3329
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 2380,
+    "valor": "Item B - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 323
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1126
+  },
+  {
+    "tipo": "inserir",
+    "chave": 3594,
+    "valor": "Item E"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 4049
+  },
+  {
+    "tipo": "inserir",
+    "chave": 2958,
+    "valor": "Item G"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 1565
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1731,
+    "valor": "Item I"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4333,
+    "valor": "Item J - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 4563
+  },
+  {
+    "tipo": "deletar",
+    "chave": 2767
+  },
+  {
+    "tipo": "deletar",
+    "chave": 4791
+  },
+  {
+    "tipo": "buscar",
+    "chave": 2347
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4539,
+    "valor": "Item O - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1776,
+    "valor": "Item P"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 3075
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 2179,
+    "valor": "Item R - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 2989
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4376,
+    "valor": "Item T - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 4806
+  },
+  {
+    "tipo": "deletar",
+    "chave": 531
+  },
+  {
+    "tipo": "deletar",
+    "chave": 432
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1212
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1982,
+    "valor": "Item Y"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3289,
+    "valor": "Item Z - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 483,
+    "valor": "Item A"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 3639
+  },
+  {
+    "tipo": "buscar",
+    "chave": 3615
+  },
+  {
+    "tipo": "inserir",
+    "chave": 2509,
+    "valor": "Item D"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 4885
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3487,
+    "valor": "Item F - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 504
+  },
+  {
+    "tipo": "buscar",
+    "chave": 2117
+  },
+  {
+    "tipo": "buscar",
+    "chave": 3737
+  },
+  {
+    "tipo": "deletar",
+    "chave": 946
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 1648,
+    "valor": "Item K - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 3679
+  },
+  {
+    "tipo": "inserir",
+    "chave": 3628,
+    "valor": "Item M"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 57
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3120,
+    "valor": "Item O - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1058
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1677,
+    "valor": "Item Q"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 2093
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1127
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3036,
+    "valor": "Item T - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 3949,
+    "valor": "Item U"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1022
+  },
+  {
+    "tipo": "buscar",
+    "chave": 134
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4156,
+    "valor": "Item X - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 2487
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3322,
+    "valor": "Item Z - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 4797,
+    "valor": "Item A"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 679,
+    "valor": "Item B - Atualizado"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3959,
+    "valor": "Item C - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 2928
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1329,
+    "valor": "Item E"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 541
+  },
+  {
+    "tipo": "deletar",
+    "chave": 4593
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4064,
+    "valor": "Item H - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 4151
+  },
+  {
+    "tipo": "buscar",
+    "chave": 811
+  },
+  {
+    "tipo": "deletar",
+    "chave": 4253
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4379,
+    "valor": "Item L - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1086,
+    "valor": "Item M"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 1152
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3637,
+    "valor": "Item O - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 1908
+  },
+  {
+    "tipo": "deletar",
+    "chave": 316
+  },
+  {
+    "tipo": "buscar",
+    "chave": 1656
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3713,
+    "valor": "Item S - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 3601
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3561,
+    "valor": "Item U - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 4614,
+    "valor": "Item V"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 1544
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1523
+  },
+  {
+    "tipo": "inserir",
+    "chave": 4155,
+    "valor": "Item Y"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 2786
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4967,
+    "valor": "Item A - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1493,
+    "valor": "Item B"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 3254,
+    "valor": "Item C"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 1544,
+    "valor": "Item D - Atualizado"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 2419,
+    "valor": "Item E - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 816
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 1019,
+    "valor": "Item G - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 2889
+  },
+  {
+    "tipo": "inserir",
+    "chave": 1327,
+    "valor": "Item I"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 408
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 2,
+    "valor": "Item K - Atualizado"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 1614,
+    "valor": "Item L - Atualizado"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 2861,
+    "valor": "Item M"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 552,
+    "valor": "Item N"
+  },
+  {
+    "tipo": "inserir",
+    "chave": 3160,
+    "valor": "Item O"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 458,
+    "valor": "Item P - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 3086
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 4683,
+    "valor": "Item R - Atualizado"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3053,
+    "valor": "Item S - Atualizado"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3613,
+    "valor": "Item T - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 697
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 1275,
+    "valor": "Item V - Atualizado"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "tipo": "inserir",
+    "chave": 2774,
+    "valor": "Item A"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 2884,
+    "valor": "Item B - Atualizado"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 2435,
+    "valor": "Item C - Atualizado"
+  },
+  {
+    "tipo": "deletar",
+    "chave": 31
+  },
+  {
+    "tipo": "deletar",
+    "chave": 1998
+  },
+  {
+    "tipo": "inserir",
+    "chave": 3083,
+    "valor": "Item F"
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 1987,
+    "valor": "Item G - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 412
+  },
+  {
+    "tipo": "atualizar",
+    "chave": 3444,
+    "valor": "Item I - Atualizado"
+  },
+  {
+    "tipo": "buscar",
+    "chave": 1375
+  }
+]
