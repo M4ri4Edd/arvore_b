@@ -89,11 +89,6 @@ const fs = require('fs');
 const caminhoArquivo = 'arvore_b.json';
 const caminhoOperacoes = '../testes/db_grande.json';  // Atualize o caminho aqui
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
-
 let arvore;
 if (fs.existsSync(caminhoArquivo)) {
     const dados = fs.readFileSync(caminhoArquivo, 'utf8');
