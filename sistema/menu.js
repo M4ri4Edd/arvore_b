@@ -1,9 +1,9 @@
-const { BTree } = require('./arvore_b');
+/*const { BTree } = require('./arvore_b');
 const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance'); 
 const fs = require('fs');
 
 const caminhoArquivo = 'arvore_b.json';
-const caminhoOperacoes = '../testes/db_grande.json';  // Atualize o caminho aqui
+const caminhoOperacoes = '../testes/db_pequeno.json';  // Atualize o caminho aqui
 
 let arvore;
 if (fs.existsSync(caminhoArquivo)) {
@@ -58,8 +58,8 @@ function executarOperacoesDeArquivo(caminhoOperacoes) {
 
 // Chamar a função de execução de operações
 executarOperacoesDeArquivo(caminhoOperacoes);
-
-/*const { BTree } = require('./arvore_b');
+*/
+const { BTree } = require('./arvore_b');
 const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance');  // Adicione esta linha
 const readline = require('readline');
 const fs = require('fs');
@@ -140,4 +140,4 @@ function menu() {
 
 // Iniciar o menu
 menu();
-*/
+
