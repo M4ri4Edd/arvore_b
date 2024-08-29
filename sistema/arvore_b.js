@@ -1,7 +1,4 @@
 // btree.js
-
-const fs = require('fs');
-
 class BTreeNode {
     constructor(isLeaf = true) {
         this.isLeaf = isLeaf;
@@ -79,6 +76,10 @@ class BTree {
     }
 
     search(key, node = this.root) {
+        if (node === null) {
+            return null; 
+        }
+    
         let i = 0;
         while (i < node.keys.length && key > node.keys[i]) {
             i++;
@@ -92,12 +93,15 @@ class BTree {
             return this.search(key, node.children[i]);
         }
     }
+    
 
     update(key, newValue) {
         const node = this._searchNodeForUpdate(key, this.root);
         if (node) {
             const index = node.keys.indexOf(key);
             node.values[index] = newValue;
+        } else {
+            console.log("Chave não encontrada");
         }
     }
 
