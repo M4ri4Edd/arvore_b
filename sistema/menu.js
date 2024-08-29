@@ -1,6 +1,5 @@
 const { BTree } = require('./arvore_b');
 const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance'); 
-const readline = require('readline');
 const fs = require('fs');
 
 const caminhoArquivo = 'arvore_b.json';
