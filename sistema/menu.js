@@ -1,9 +1,20 @@
-/*const { BTree } = require('./arvore_b');
-const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance'); 
 const fs = require('fs');
+const path = require('path');
+
+const logFilePath = 'output.txt';
+const logStream = fs.createWriteStream(path.join(__dirname, logFilePath), { flags: 'a' });
+
+const originalLog = console.log;
+console.log = (...args) => {
+    originalLog(...args); // Continua exibindo no terminal
+    logStream.write(args.join(' ') + '\n'); // Grava no arquivo
+};
+
+const { BTree } = require('./arvore_b');
+const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance'); 
 
 const caminhoArquivo = 'arvore_b.json';
-const caminhoOperacoes = '../testes/db_pequeno.json';  // Atualize o caminho aqui
+const caminhoOperacoes = '../testes/db_grande.json';  // Atualize o caminho aqui
 
 let arvore;
 if (fs.existsSync(caminhoArquivo)) {
@@ -58,7 +69,7 @@ function executarOperacoesDeArquivo(caminhoOperacoes) {
 
 // Chamar a função de execução de operações
 executarOperacoesDeArquivo(caminhoOperacoes);
-*/
+/*
 const { BTree } = require('./arvore_b');
 const { inserir, buscar, atualizar, deletar } = require('../avaliacao/performance');  // Adicione esta linha
 const readline = require('readline');
@@ -140,4 +151,4 @@ function menu() {
 
 // Iniciar o menu
 menu();
-
+*/
